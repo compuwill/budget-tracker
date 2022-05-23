@@ -1,4 +1,4 @@
-# Bidget Tracker
+# Budget Tracker
 
 ## Description
 A web application that allows the user to track a budget. Utilizes PWA and offline capability.
